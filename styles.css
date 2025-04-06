@@ -398,15 +398,17 @@ align-items: center;
 
 /* Estilos para la sección de servicios */
 
-.servicios {
+/* Estilos para la sección de servicios */
+
+.servicio {
     width: 80%;
-    margin: 2em auto;
-    padding: 3em;
+    margin: 1em auto;
+    padding: 1em;
     background-color: #f7f8f8;
     text-align: center;
 }
 
-.servicio {
+.servicios{
     background-color: #ffffff;
     margin: 1.5em 0;
     padding: 2em;
@@ -417,7 +419,7 @@ align-items: center;
 .servicio h3 {
     font-size: 2em;
     color: #1283c0;
-    margin-bottom: 1em;
+    margin-bottom: 2em;
     font-family: 'Arial', sans-serif;
 }
 
@@ -427,6 +429,7 @@ align-items: center;
     color: #333;
     font-family: 'Arial', sans-serif;
 }
+
 
 /*inicio de footer*/
 
