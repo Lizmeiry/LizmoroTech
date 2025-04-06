@@ -398,14 +398,13 @@ align-items: center;
 
 /* Estilos para la sección de servicios */
 
-/* Estilos para la sección de servicios */
-
 .servicio {
     width: 80%;
     margin: 1em auto;
     padding: 1em;
     background-color: #f7f8f8;
-    text-align: center;
+     text-align: center;
+   
 }
 
 .servicios{
@@ -414,6 +413,7 @@ align-items: center;
     padding: 2em;
     border-radius: 10px;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+     text-align: center;
 }
 
 .servicio h3 {
@@ -421,7 +421,7 @@ align-items: center;
     color: #1283c0;
     margin-bottom: 2em;
     font-family: 'Arial', sans-serif;
-     text-align: center;
+    
 }
 
 .servicio p {
