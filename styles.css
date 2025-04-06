@@ -421,6 +421,7 @@ align-items: center;
     color: #1283c0;
     margin-bottom: 2em;
     font-family: 'Arial', sans-serif;
+     text-align: center;
 }
 
 .servicio p {
